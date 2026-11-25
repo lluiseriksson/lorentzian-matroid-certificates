@@ -1,0 +1,373 @@
+{
+  "models": {
+    "M(K_4)": {
+      "n": 6,
+      "r": 3,
+      "num_bases": 16,
+      "matrix_dim": 2,
+      "exact_c_exchange": 0.989949,
+      "certified_c_upper": 1.0,
+      "max_observed_dev": 0.982344,
+      "points": [
+        {
+          "t": 0.25,
+          "empirical_tail": 0.875,
+          "exact_laplace_bound": 1.0,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 0.5,
+          "empirical_tail": 0.6875,
+          "exact_laplace_bound": 1.0,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 0.75,
+          "empirical_tail": 0.25,
+          "exact_laplace_bound": 0.8025922392349183,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.1903050128568199,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.02575498281632494,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.0034855578942014284,
+          "ercan_subgaussian_bound": 0.9447331054820294,
+          "rational_taylor8_bound": 0.9447332052479979
+        },
+        {
+          "t": 1.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.0004717189648493616,
+          "ercan_subgaussian_bound": 0.7205891391228098,
+          "rational_taylor8_bound": 0.7205900973085203
+        },
+        {
+          "t": 2.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 6.38402197159701e-05,
+          "ercan_subgaussian_bound": 0.5271942762314535,
+          "rational_taylor8_bound": 0.5272001492791833
+        },
+        {
+          "t": 2.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 8.6398342171484e-06,
+          "ercan_subgaussian_bound": 0.36996279981460856,
+          "rational_taylor8_bound": 0.3699878897022062
+        },
+        {
+          "t": 2.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.1692744108951566e-06,
+          "ercan_subgaussian_bound": 0.24902894288824592,
+          "rational_taylor8_bound": 0.24910830962878733
+        },
+        {
+          "t": 2.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.5824408357981944e-07,
+          "ercan_subgaussian_bound": 0.16078517001369166,
+          "rational_taylor8_bound": 0.1609793868537262
+        },
+        {
+          "t": 3.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 2.1416007871793077e-08,
+          "ercan_subgaussian_bound": 0.09957413673572789,
+          "rational_taylor8_bound": 0.09995426200064704
+        },
+        {
+          "t": 3.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 2.898341491126643e-09,
+          "ercan_subgaussian_bound": 0.05914955849329224,
+          "rational_taylor8_bound": 0.0597608974652208
+        },
+        {
+          "t": 3.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 3.922478666180506e-10,
+          "ercan_subgaussian_bound": 0.03370240251989502,
+          "rational_taylor8_bound": 0.03452934836671809
+        },
+        {
+          "t": 3.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 5.308497612771096e-11,
+          "ercan_subgaussian_bound": 0.01841936320793628,
+          "rational_taylor8_bound": 0.019380387115220745
+        },
+        {
+          "t": 4.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 7.184270279852585e-12,
+          "ercan_subgaussian_bound": 0.009655899987662883,
+          "rational_taylor8_bound": 0.010634686934972843
+        }
+      ]
+    },
+    "F_7": {
+      "n": 7,
+      "r": 3,
+      "num_bases": 28,
+      "matrix_dim": 2,
+      "exact_c_exchange": 0.989949,
+      "certified_c_upper": 1.0,
+      "max_observed_dev": 1.022851,
+      "points": [
+        {
+          "t": 0.25,
+          "empirical_tail": 0.8928571428571429,
+          "exact_laplace_bound": 1.0,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 0.5,
+          "empirical_tail": 0.6071428571428571,
+          "exact_laplace_bound": 1.0,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 0.75,
+          "empirical_tail": 0.35714285714285715,
+          "exact_laplace_bound": 0.816969435212865,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.0,
+          "empirical_tail": 0.03571428571428571,
+          "exact_laplace_bound": 0.16934479040298248,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.022918325173832445,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.0031016580287094044,
+          "ercan_subgaussian_bound": 0.9447331054820294,
+          "rational_taylor8_bound": 0.9447332052479979
+        },
+        {
+          "t": 1.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.000419763767818501,
+          "ercan_subgaussian_bound": 0.7205891391228098,
+          "rational_taylor8_bound": 0.7205900973085203
+        },
+        {
+          "t": 2.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 5.680884841018456e-05,
+          "ercan_subgaussian_bound": 0.5271942762314535,
+          "rational_taylor8_bound": 0.5272001492791833
+        },
+        {
+          "t": 2.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 7.688241589938123e-06,
+          "ercan_subgaussian_bound": 0.36996279981460856,
+          "rational_taylor8_bound": 0.3699878897022062
+        },
+        {
+          "t": 2.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.0404903531657814e-06,
+          "ercan_subgaussian_bound": 0.24902894288824592,
+          "rational_taylor8_bound": 0.24910830962878733
+        },
+        {
+          "t": 2.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.4081505665065418e-07,
+          "ercan_subgaussian_bound": 0.16078517001369166,
+          "rational_taylor8_bound": 0.1609793868537262
+        },
+        {
+          "t": 3.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.9057245575795946e-08,
+          "ercan_subgaussian_bound": 0.09957413673572789,
+          "rational_taylor8_bound": 0.09995426200064704
+        },
+        {
+          "t": 3.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 2.5791177277100287e-09,
+          "ercan_subgaussian_bound": 0.05914955849329224,
+          "rational_taylor8_bound": 0.0597608974652208
+        },
+        {
+          "t": 3.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 3.490456281802056e-10,
+          "ercan_subgaussian_bound": 0.03370240251989502,
+          "rational_taylor8_bound": 0.03452934836671809
+        },
+        {
+          "t": 3.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 4.723818895226953e-11,
+          "ercan_subgaussian_bound": 0.01841936320793628,
+          "rational_taylor8_bound": 0.019380387115220745
+        },
+        {
+          "t": 4.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 6.3929936814400255e-12,
+          "ercan_subgaussian_bound": 0.009655899987662883,
+          "rational_taylor8_bound": 0.010634686934972843
+        }
+      ]
+    },
+    "V_8": {
+      "n": 8,
+      "r": 4,
+      "num_bases": 65,
+      "matrix_dim": 2,
+      "exact_c_exchange": 0.989949,
+      "certified_c_upper": 1.0,
+      "max_observed_dev": 1.227386,
+      "points": [
+        {
+          "t": 0.25,
+          "empirical_tail": 0.9076923076923077,
+          "exact_laplace_bound": 1.0,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 0.5,
+          "empirical_tail": 0.5692307692307692,
+          "exact_laplace_bound": 1.0,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 0.75,
+          "empirical_tail": 0.2923076923076923,
+          "exact_laplace_bound": 0.9288675178477208,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.0,
+          "empirical_tail": 0.06153846153846154,
+          "exact_laplace_bound": 0.34986555398794816,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.051946038444596346,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.007030131825919417,
+          "ercan_subgaussian_bound": 1.0,
+          "rational_taylor8_bound": 1.0
+        },
+        {
+          "t": 1.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.0009514248818515295,
+          "ercan_subgaussian_bound": 0.9300863762681126,
+          "rational_taylor8_bound": 0.9300864928758003
+        },
+        {
+          "t": 2.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 0.0001287613558637375,
+          "ercan_subgaussian_bound": 0.7357588823428847,
+          "rational_taylor8_bound": 0.735759710221622
+        },
+        {
+          "t": 2.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.74259545657492e-05,
+          "ercan_subgaussian_bound": 0.5641259033876309,
+          "rational_taylor8_bound": 0.5641300786830377
+        },
+        {
+          "t": 2.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 2.358346496824012e-06,
+          "ercan_subgaussian_bound": 0.4192227743021956,
+          "rational_taylor8_bound": 0.419238660130384
+        },
+        {
+          "t": 2.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 3.1916749111775094e-07,
+          "ercan_subgaussian_bound": 0.3019548369118292,
+          "rational_taylor8_bound": 0.3020024408070466
+        },
+        {
+          "t": 3.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 4.3194622810339886e-08,
+          "ercan_subgaussian_bound": 0.21079844912372867,
+          "rational_taylor8_bound": 0.21091446499615635
+        },
+        {
+          "t": 3.25,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 5.845756512336001e-09,
+          "ercan_subgaussian_bound": 0.14263336539551608,
+          "rational_taylor8_bound": 0.14286909335989195
+        },
+        {
+          "t": 3.5,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 7.911371133292658e-10,
+          "ercan_subgaussian_bound": 0.09354124476791796,
+          "rational_taylor8_bound": 0.0939486375565782
+        },
+        {
+          "t": 3.75,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.0706876531141233e-10,
+          "ercan_subgaussian_bound": 0.0594584327723175,
+          "rational_taylor8_bound": 0.06006750741581501
+        },
+        {
+          "t": 4.0,
+          "empirical_tail": 0.0,
+          "exact_laplace_bound": 1.44901816792144e-11,
+          "ercan_subgaussian_bound": 0.03663127777746836,
+          "rational_taylor8_bound": 0.03743093102014141
+        }
+      ]
+    }
+  }
+}

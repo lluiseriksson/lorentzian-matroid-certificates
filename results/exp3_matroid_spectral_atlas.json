@@ -1,0 +1,190 @@
+{
+  "max_isospectral_error": 2.220446049250313e-16,
+  "matroids": [
+    {
+      "name": "U_{3,6}",
+      "n": 6,
+      "r": 3,
+      "num_bases": 20,
+      "representability": "Representable (all fields)",
+      "independent_counts": [
+        1,
+        6,
+        15,
+        20
+      ],
+      "mason_ulc_ratios": [
+        1.0,
+        1.0
+      ],
+      "down_up_gaps": [
+        {
+          "ell": 1,
+          "universal_gap": 0.666667,
+          "true_gap": 0.8,
+          "dual_gap": 0.8,
+          "excess_ratio": 1.2,
+          "num_dual_states": 6
+        },
+        {
+          "ell": 2,
+          "universal_gap": 0.333333,
+          "true_gap": 0.5,
+          "dual_gap": 0.5,
+          "excess_ratio": 1.5,
+          "num_dual_states": 15
+        }
+      ]
+    },
+    {
+      "name": "M(K_4)",
+      "n": 6,
+      "r": 3,
+      "num_bases": 16,
+      "representability": "Graphic / Regular",
+      "independent_counts": [
+        1,
+        6,
+        15,
+        16
+      ],
+      "mason_ulc_ratios": [
+        1.0,
+        1.25
+      ],
+      "down_up_gaps": [
+        {
+          "ell": 1,
+          "universal_gap": 0.666667,
+          "true_gap": 0.75,
+          "dual_gap": 0.75,
+          "excess_ratio": 1.125,
+          "num_dual_states": 6
+        },
+        {
+          "ell": 2,
+          "universal_gap": 0.333333,
+          "true_gap": 0.410803,
+          "dual_gap": 0.410803,
+          "excess_ratio": 1.232408,
+          "num_dual_states": 15
+        }
+      ]
+    },
+    {
+      "name": "F_7",
+      "n": 7,
+      "r": 3,
+      "num_bases": 28,
+      "representability": "Representable (char 2 only)",
+      "independent_counts": [
+        1,
+        7,
+        21,
+        28
+      ],
+      "mason_ulc_ratios": [
+        1.0,
+        1.25
+      ],
+      "down_up_gaps": [
+        {
+          "ell": 1,
+          "universal_gap": 0.666667,
+          "true_gap": 0.777778,
+          "dual_gap": 0.777778,
+          "excess_ratio": 1.166667,
+          "num_dual_states": 7
+        },
+        {
+          "ell": 2,
+          "universal_gap": 0.333333,
+          "true_gap": 0.430964,
+          "dual_gap": 0.430964,
+          "excess_ratio": 1.292893,
+          "num_dual_states": 21
+        }
+      ]
+    },
+    {
+      "name": "F_7^-",
+      "n": 7,
+      "r": 3,
+      "num_bases": 29,
+      "representability": "Representable (char != 2 only)",
+      "independent_counts": [
+        1,
+        7,
+        21,
+        29
+      ],
+      "mason_ulc_ratios": [
+        1.0,
+        1.206897
+      ],
+      "down_up_gaps": [
+        {
+          "ell": 1,
+          "universal_gap": 0.666667,
+          "true_gap": 0.74359,
+          "dual_gap": 0.74359,
+          "excess_ratio": 1.115385,
+          "num_dual_states": 7
+        },
+        {
+          "ell": 2,
+          "universal_gap": 0.333333,
+          "true_gap": 0.405635,
+          "dual_gap": 0.405635,
+          "excess_ratio": 1.216905,
+          "num_dual_states": 21
+        }
+      ]
+    },
+    {
+      "name": "V_8",
+      "n": 8,
+      "r": 4,
+      "num_bases": 65,
+      "representability": "Non-representable (any field)",
+      "independent_counts": [
+        1,
+        8,
+        28,
+        56,
+        65
+      ],
+      "mason_ulc_ratios": [
+        1.0,
+        1.0,
+        1.076923
+      ],
+      "down_up_gaps": [
+        {
+          "ell": 1,
+          "universal_gap": 0.75,
+          "true_gap": 0.84375,
+          "dual_gap": 0.84375,
+          "excess_ratio": 1.125,
+          "num_dual_states": 8
+        },
+        {
+          "ell": 2,
+          "universal_gap": 0.5,
+          "true_gap": 0.642857,
+          "dual_gap": 0.642857,
+          "excess_ratio": 1.285714,
+          "num_dual_states": 28
+        },
+        {
+          "ell": 3,
+          "universal_gap": 0.25,
+          "true_gap": 0.368826,
+          "dual_gap": 0.368826,
+          "excess_ratio": 1.475305,
+          "num_dual_states": 56
+        }
+      ]
+    }
+  ]
+}

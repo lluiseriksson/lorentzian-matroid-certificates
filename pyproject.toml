@@ -1,0 +1,11 @@
+[project]
+name = "lorentzian-matroid-certificates"
+version = "1.0.0"
+description = "Exact-Q Lorentzian inertia certificates, coincident down-up spectral-gap phase transitions, and machine-checked subgaussian matrix concentration for matroids."
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+experiments = ["numpy>=1.26", "matplotlib>=3.8", "pytest>=8.0"]
